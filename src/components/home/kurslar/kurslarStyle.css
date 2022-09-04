@@ -1,0 +1,14 @@
+.wrapper {
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuWrapper {
+    display: flex;
+
+}
+
+.menuWrapper p {
+    margin-left: 15px;
+}
